@@ -1,6 +1,6 @@
 # 简介
 
-本项目生成适用于 [**Clash Premium 内核**](https://github.com/Dreamacro/clash/releases/tag/premium)的规则集（RULE-SET），同时适用于所有使用 Clash Premium 内核的 Clash 图形用户界面（GUI）客户端。
+本项目生成适用于 [**Clash Premium 内核**](https://github.com/Dreamacro/clash/releases/tag/premium)的规则集（RULE-SET）。
 
 ## 说明
 
@@ -20,19 +20,19 @@
 
 ### 在线地址（URL）
 
-- **AD列表**：
+- **AD　列表**：
   - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/AD.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/AD.yaml)
 
-- **EasyList列表**：
+- **EasyList　列表**：
   - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyList.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyList.yaml)
 
-- **EasyListChina列表**：
+- **EasyListChina　列表**：
   - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyListChina.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyListChina.yaml)
 
-- **IP列表**：
+- **IP　列表**：
   - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/IP.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/IP.yaml)
 
-- **ProgramAD列表**：
+- **ProgramAD　列表**：
   - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/ProgramAD.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/ProgramAD.yaml)
 
 ### 使用方式
