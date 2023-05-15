@@ -68,7 +68,7 @@ rule-providers:
 
   IP:
     type: http
-    behavior: domain
+    behavior: ipcidr
     url: "https://raw.githubusercontent.com/earoftoast/clash-rules/main/IP.yaml"
     path: ./rules/IP.yaml
     interval: 86400
