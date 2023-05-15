@@ -1,6 +1,8 @@
 payload:
   # 来源：https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Providers/BanEasyList.yaml
   # 来源：https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Providers/BanEasyListChina.yaml
+  # 来源：https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Providers/BanEasyPrivacy.yaml
+  
   - '23.109.87.42/32'
   - '23.109.87.101/32'
   - '35.227.234.222/32'
@@ -75,4 +77,11 @@ payload:
   - '220.115.251.25/32'
   - '221.204.213.222/32'
   - '222.186.12.235/32'
+  - '0.0.0.1/32'
+  - '35.194.26.233/32'
+  - '35.239.57.233/32'
+  - '45.32.105.134/32'
+  - '77.162.125.199/32'
+  - '185.165.169.108/32'
+  - '185.193.38.148/32'
   
