@@ -20,8 +20,20 @@
 
 ### 在线地址（URL）
 
-- **BanAD列表 BanAD**：
-  - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/BanAD.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/BanAD.yaml)
+- **AD列表**：
+  - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/AD.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/AD.yaml)
+
+- **EasyList列表**：
+  - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyList.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyList.yaml)
+
+- **EasyListChina列表**：
+  - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyListChina.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyListChina.yaml)
+
+- **IP列表**：
+  - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/IP.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/IP.yaml)
+
+- **ProgramAD列表**：
+  - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/ProgramAD.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/ProgramAD.yaml)
 
 ### 使用方式
 
