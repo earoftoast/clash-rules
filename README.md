@@ -1,12 +1,12 @@
 # 简介
 
-本项目生成适用于 [**Clash Premium 内核**](https://github.com/Dreamacro/clash/releases/tag/premium) 和 [**Clash.Meta 内核**]（https://github.com/MetaCubeX/Clash.Meta）的规则集（RULE-SET）。
+本项目生成适用于 [**Clash Premium 内核**](https://github.com/Dreamacro/clash/releases/tag/premium) 和 [**Clash.Meta 内核**](https://github.com/MetaCubeX/Clash.Meta)的规则集（RULE-SET）。
 
 ## 说明
 
 本项目规则集（RULE-SET）的数据主要来源于项目 [@ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)。
 
-本项目的规则集（RULE-SET）适用于 [**Clash Premium 内核**](https://github.com/Dreamacro/clash/releases/tag/premium) 和 [**Clash.Meta 内核**]（https://github.com/MetaCubeX/Clash.Meta）。更多高级特性请看[Clash Premium 官方文档](https://github.com/Dreamacro/clash/wiki/Clash-Premium-Features)和[Clash.Meta 官方文档](https://docs.metacubex.one/)。
+本项目的规则集（RULE-SET）适用于 [**Clash Premium 内核**](https://github.com/Dreamacro/clash/releases/tag/premium) 和 [**Clash.Meta 内核**](https://github.com/MetaCubeX/Clash.Meta)。更多高级特性请看[Clash Premium 官方文档](https://github.com/Dreamacro/clash/wiki/Clash-Premium-Features)和[Clash.Meta 官方文档](https://docs.metacubex.one/)。
 
 ### Clash Premium 各版本下载地址
 
