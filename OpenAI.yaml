@@ -1,0 +1,8 @@
+payload:
+  - '+.ai.com
+  - '+.challenges.cloudflare.com
+  - '+.openai.com
+  - '+.openaiapi-site.azureedge.net
+  - '+.stripe.com
+  - '+.identrust.com  
+  - 'cdn.auth0.com'
