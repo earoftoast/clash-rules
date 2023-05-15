@@ -38,6 +38,9 @@
 - **EasyListChina**：
   - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyListChina.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyListChina.yaml)
 
+- **EasyPrivacy**：
+  - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyPrivacy.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyPrivacy.yaml)
+
 - **IP**：
   - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/IP.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/IP.yaml)
 
@@ -73,6 +76,13 @@ rule-providers:
     path: ./rules/EasyListChina.yaml
     interval: 86400
 
+  EasyPrivacy:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyPrivacy.yaml"
+    path: ./rules/EasyPrivacy.yaml
+    interval: 86400
+
   IP:
     type: http
     behavior: ipcidr
@@ -95,6 +105,7 @@ rules:
   - RULE-SET,AD,REJECT
   - RULE-SET,EasyList,REJECT
   - RULE-SET,EasyListChina,REJECT
+  - RULE-SET,EasyPrivacy,REJECT
   - RULE-SET,IP,REJECT
   - RULE-SET,ProgramAD,REJECT
 ```
