@@ -29,19 +29,19 @@
 
 ### 在线地址（URL）
 
-- **AD　列表**：
+- **AD**：
   - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/AD.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/AD.yaml)
 
-- **EasyList　列表**：
+- **EasyList**：
   - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyList.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyList.yaml)
 
-- **EasyListChina　列表**：
+- **EasyListChina**：
   - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyListChina.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyListChina.yaml)
 
-- **IP　列表**：
+- **IP**：
   - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/IP.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/IP.yaml)
 
-- **ProgramAD　列表**：
+- **ProgramAD**：
   - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/ProgramAD.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/ProgramAD.yaml)
 
 ### 使用方式
