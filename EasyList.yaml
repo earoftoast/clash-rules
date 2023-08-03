@@ -4,7 +4,7 @@ payload:
   # 来源：https://easylist-downloads.adblockplus.org/easylist.txt
   # 更新：2023-08-03
   # 数量：26657条
-
+  
   - '+.0-000.store'
   - '+.0008d6ba2e.com'
   - '+.004809f9da.com'
