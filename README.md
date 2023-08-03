@@ -41,9 +41,6 @@
 - **EasyPrivacy**：
   - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyPrivacy.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyPrivacy.yaml)
 
-- **IP**：
-  - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/IP.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/IP.yaml)
-
 - **ProgramAD**：
   - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/ProgramAD.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/ProgramAD.yaml)
 
@@ -81,13 +78,6 @@ rule-providers:
     behavior: domain
     url: "https://raw.githubusercontent.com/earoftoast/clash-rules/main/EasyPrivacy.yaml"
     path: ./rules/EasyPrivacy.yaml
-    interval: 86400
-
-  IP:
-    type: http
-    behavior: ipcidr
-    url: "https://raw.githubusercontent.com/earoftoast/clash-rules/main/IP.yaml"
-    path: ./rules/IP.yaml
     interval: 86400
 
   ProgramAD:
