@@ -1,6 +1,7 @@
 payload:
-  # 来源: https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Providers/BanAD.yaml
-  # 广告联盟-国内****************
+  # 来源: https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Providers/BanAD.yaml'
+  
+  # 广告联盟-国内
   - '+.09mk.cn'
   - '+.100peng.com'
   - '+.114la.com'
@@ -395,7 +396,8 @@ payload:
   - '+.zhjfad.com'
   - '+.zqzxz.com'
   - '+.zzsx8.com'
-  # 广告联盟-国外****************
+
+  # 广告联盟-国外
   - '+.acuityplatform.com'
   - '+.ad-stir.com'
   - '+.ad-survey.com'
@@ -548,7 +550,8 @@ payload:
   - '+.yengo.com'
   - '+.zedo.com'
   - '+.zemanta.com'
-  # 垃圾站点****************
+
+  # 垃圾站点
   - '+.11h5.com'
   - '+.1kxun.mobi'
   - '+.26zsd.cn'
@@ -566,8 +569,10 @@ payload:
   - '+.zantainet.com'
   - '+.dh54wf.xyz'
   - '+.g2q3e.cn'
-  # 运营商广告****************
+
+  # 运营商广告
   - '+.114so.cn'
   - '+.go.10086.cn'
   - '+.hivedata.cc'
   - '+.navi.gd.chinamobile.com'
+  

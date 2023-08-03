@@ -2,7 +2,8 @@ payload:
   # 来源：https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Providers/BanProgramAD.yaml
   # 包含常用应用的各种去广告规则。
   # 可能有轻微副作用，可放心使用。（如果网站功能和广告冲突，会删掉去广告规则）
-  # 163
+
+   # 163
   - '+.a.youdao.com'
   - '+.adgeo.corp.163.com'
   - '+.analytics.126.net'
@@ -39,6 +40,7 @@ payload:
   - '+.union.youdao.com'
   - '+.wanproxy.127.net'
   - '+.ydpushserver.youdao.com'
+  
   # 17173
   - '+.cvda.17173.com'
   - '+.imgapp.yeyou.com'
@@ -46,9 +48,11 @@ payload:
   - '+.s.17173cdn.com'
   - '+.ue.yeyoucdn.com'
   - '+.vda.17173.com'
+
   # 178
   - '+.analytics.wanmei.com'
   - '+.gg.stargame.com'
+
   # 2345
   - '+.dl.2345.cn'
   - '+.download.2345.cn'
@@ -58,6 +62,7 @@ payload:
   - '+.minipage.2345.cn'
   - '+.wan.2345.cn'
   - '+.zhushou.2345.cn'
+
   # 360
   - '+.3600.com'
   - '+.gamebox.360.cn'
@@ -73,6 +78,7 @@ payload:
   - '+.stat.m.360.cn'
   - '+.update.360safe.com'
   - '+.wan.360.cn'
+
   # 58
   - '+.58.xgo.com.cn'
   - '+.brandshow.58.com'
@@ -81,6 +87,7 @@ payload:
   - '+.stat.xgo.com.cn'
   - '+.track.58.com'
   - '+.tracklog.58.com'
+
   # Alibaba
   - '+.acjs.aliyun.com'
   - '+.adash-c.m.taobao.com'
@@ -113,6 +120,7 @@ payload:
   - '+.tyh.taobao.com'
   - '+.userimg.qunar.com'
   - '+.yiliao.hupan.com'
+
   # Adobe
   - '+.3dns-2.adobe.com'
   - '+.3dns-3.adobe.com'
@@ -133,8 +141,10 @@ payload:
   - '+.practivate.adobe.com'
   - '+.wip3.adobe.com'
   - '+.wwis-dubc1-vip60.adobe.com'
+
   # Apple
   - '+.adserver.unityads.unity3d.com'
+
   # AutoHome
   - '+.33.autohome.com.cn'
   - '+.adproxy.autohome.com.cn'
@@ -150,6 +160,7 @@ payload:
   - '+.rd.autohome.com.cn'
   - '+.rdx.autohome.com.cn'
   - '+.stats.autohome.com.cn'
+
   # Baidu
   - '+.a.baidu.cn'
   - '+.a.baidu.com'
@@ -346,7 +357,8 @@ payload:
   - '+.znsv.baidu.com'
   - '+.zz.bdstatic.com'
   - '+.zzy1.quyaoya.com'
-  # Book-app 起点 掌阅 书旗 宜搜'
+
+  # Book-app 起点 掌阅 书旗 宜搜
   - '+.ad.zhangyue.com'
   - '+.adm.ps.easou.com'
   - '+.aishowbger.com'
@@ -388,7 +400,8 @@ payload:
   - '+.xtzxmy.com'
   - '+.xyrkl.com'
   - '+.zhuanfakong.com'
-  # ByteDance 头条抖音'
+
+  # ByteDance 头条抖音
   - '+.ad.toutiao.com'
   - '+.dsp.toutiao.com'
   - '+.ic.snssdk.com'
@@ -400,17 +413,21 @@ payload:
   - '+.partner.toutiao.com'
   - '+.pglstatp-toutiao.com'
   - '+.sm.toutiao.com'
-  # Dangdang'
+
+  # Dangdang
   - '+.a.dangdang.com'
   - '+.click.dangdang.com'
   - '+.schprompt.dangdang.com'
   - '+.t.dangdang.com'
-  # Duomi'
+
+  # Duomi
   - '+.ad.duomi.com'
   - '+.boxshows.com'
-  # Facebook'
+
+  # Facebook
   - '+.staticxx.facebook.com'
-  # Fang'
+
+  # Fang
   - '+.click1n.soufun.com'
   - '+.clickm.fang.com'
   - '+.clickn.fang.com'
@@ -418,7 +435,8 @@ payload:
   - '+.countubn.light.soufun.com'
   - '+.mshow.fang.com'
   - '+.tongji.home.soufun.com'
-  # Google'
+
+  # Google
   - '+.admob.com'
   - '+.ads.gmodules.com'
   - '+.ads.google.com'
@@ -438,7 +456,8 @@ payload:
   - '+.pagead.google.com'
   - '+.pagead.l.google.com'
   - '+.service.urchin.com'
-  # JD'
+
+  # JD
   - '+.ads.union.jd.com'
   - '+.c-nfa.jd.com'
   - '+.cps.360buy.com'
@@ -447,7 +466,8 @@ payload:
   - '+.jzt.jd.com'
   - '+.policy.jd.com'
   - '+.stat.m.jd.com'
-  # Kugou'
+
+  # Kugou
   - '+.ads.service.kugou.com'
   - '+.adsfile.bssdlbig.kugou.com'
   - '+.d.kugou.com'
@@ -474,7 +494,8 @@ payload:
   - '+.sdn.kugou.com'
   - '+.tj.kugou.com'
   - '+.update.mobile.kugou.com'
-  # Kuwo'
+
+  # Kuwo
   - '+.apk.shouji.koowo.com'
   - '+.deliver.kuwo.cn'
   - '+.g.koowo.com'
@@ -487,7 +508,8 @@ payload:
   - '+.updatepage.kuwo.cn'
   - '+.wa.kuwo.cn'
   - '+.webstat.kuwo.cn'
-  # Meizu flyme 魅族'
+
+  # Meizu flyme 魅族
   - '+.aider-res.meizu.com'
   - '+.api-flow.meizu.com'
   - '+.api-game.meizu.com'
@@ -511,7 +533,8 @@ payload:
   - '+.umid.orion.meizu.com'
   - '+.upush.res.meizu.com'
   - '+.uxip.meizu.com'
-  # Meitu'
+
+  # Meitu
   - '+.a.koudai.com'
   - '+.adui.tg.meitu.com'
   - '+.corp.meitu.com'
@@ -525,7 +548,8 @@ payload:
   - '+.tuiguang.meitu.com'
   - '+.xiuxiu.android.dl.meitu.com'
   - '+.xiuxiu.mobile.meitudata.com'
-  # Miui 小米'
+
+  # Miui 小米
   - '+.a.market.xiaomi.com'
   - '+.ad.xiaomi.com'
   - '+.ad1.xiaomi.com'
@@ -547,7 +571,8 @@ payload:
   - '+.stat.pandora.xiaomi.com'
   - '+.union.mi.com'
   - '+.wtradv.market.xiaomi.com'
-  # Moji'
+
+  # Moji
   - '+.ad.api.moji.com'
   - '+.app.moji001.com'
   - '+.cdn.moji002.com'
@@ -556,25 +581,26 @@ payload:
   - '+.log.moji.com'
   - '+.stat.moji.com'
   - '+.ugc.moji001.com'
-  # Qingting.fm'
+
+  # Qingting.fm
   - '+.ad.qingting.fm'
   - '+.admgr.qingting.fm'
   - '+.dload.qd.qingting.fm'
   - '+.logger.qingting.fm'
   - '+.s.qd.qingting.fm'
   - '+.s.qd.qingtingfm.com'
-  # QQ'
-  - DOMAIN-KEYWORD,omgmtaw'
-  - DOMAIN,adsmind.apdcdn.tc.qq.com'
-  - DOMAIN,adsmind.gdtimg.com'
-  - DOMAIN,adsmind.tc.qq.com'
-  - DOMAIN,pgdt.gtimg.cn'
-  - DOMAIN,pgdt.gtimg.com'
-  - DOMAIN,pgdt.ugdtimg.com'
-  - DOMAIN,splashqqlive.gtimg.com'
-  - DOMAIN,wa.gtimg.com'
-  - DOMAIN,wxsnsdy.wxs.qq.com'
-  - DOMAIN,wxsnsdythumb.wxs.qq.com'
+
+  # QQ
+  - 'adsmind.apdcdn.tc.qq.com'
+  - 'adsmind.gdtimg.com'
+  - 'adsmind.tc.qq.com'
+  - 'pgdt.gtimg.cn'
+  - 'pgdt.gtimg.com'
+  - 'pgdt.ugdtimg.com'
+  - 'splashqqlive.gtimg.com'
+  - 'wa.gtimg.com'
+  - 'wxsnsdy.wxs.qq.com'
+  - 'wxsnsdythumb.wxs.qq.com'
   - '+.act.qq.com'
   - '+.ad.qun.qq.com'
   - '+.adsfile.qq.com'
@@ -590,11 +616,13 @@ payload:
   - '+.tajs.qq.com'
   - '+.tcss.qq.com'
   - '+.uu.qq.com'
-  # RenRen'
+
+  # RenRen
   - '+.ebp.renren.com'
   - '+.jebe.renren.com'
   - '+.jebe.xnimg.cn'
-  # Sina'
+
+  # Sina
   - '+.ad.sina.com.cn'
   - '+.adbox.sina.com.cn'
   - '+.add.sina.com.cn'
@@ -629,7 +657,8 @@ payload:
   - '+.wbclick.mobile.sina.cn'
   - '+.wbpctips.mobile.sina.cn'
   - '+.zymo.mps.weibo.com'
-  # Sougou'
+
+  # Sougou
   - '+.123.sogou.com'
   - '+.123.sogoucdn.com'
   - '+.adsence.sogou.com'
@@ -652,10 +681,12 @@ payload:
   - '+.theta.sogou.com'
   - '+.wan.sogou.com'
   - '+.wangmeng.sogou.com'
-  # Teleplus'
+
+  # Teleplus
   - '+.applovin.com'
   - '+.guangzhuiyuan.com'
-  # Twitter'
+
+  # Twitter
   - '+.ads-twitter.com'
   - '+.ads.twitter.com'
   - '+.analytics.twitter.com'
@@ -665,7 +696,8 @@ payload:
   - '+.syndication.twitter.com'
   - '+.tellapart.com'
   - '+.urls.api.twitter.com'
-  # UC ali'
+
+  # UC ali
   - '+.adslot.uc.cn'
   - '+.api.mp.uc.cn'
   - '+.applog.uc.cn'
@@ -684,13 +716,15 @@ payload:
   - '+.uc.ucweb.com'
   - '+.ucsec.ucweb.com'
   - '+.ucsec1.ucweb.com'
-  # Weifeng'
+
+  # Weifeng
   - '+.aoodoo.feng.com'
   - '+.fengbuy.com'
   - '+.push.feng.com'
   - '+.we.tm'
   - '+.yes1.feng.com'
-  # WPS Office'
+
+  # WPS Office
   - '+.ad.docer.wps.cn'
   - '+.adm.zookingsoft.com'
   - '+.bannera.kingsoft-office-service.com'
@@ -714,25 +748,29 @@ payload:
   - '+.rating6.kingsoft-office-service.com'
   - '+.up.wps.kingsoft.com'
   - '+.wpsweb-dc.wps.cn'
-  # Wi-Fi key'
+
+  # Wi-Fi key
   - '+.c.51y5.net'
   - '+.cdsget.51y5.net'
   - '+.news-imgpb.51y5.net'
   - '+.wifiapidd.51y5.net'
   - '+.wkanc.51y5.net'
-  # Ximalaya 喜马拉雅'
+
+  # Ximalaya 喜马拉雅
   - '+.adse.ximalaya.com'
   - '+.linkeye.ximalaya.com'
   - '+.location.ximalaya.com'
   - '+.xdcs-collector.ximalaya.com'
-  # Xunlei 迅雷app&看看'
+
+  # Xunlei 迅雷app&看看
   - '+.biz5.kankan.com'
   - '+.float.kankan.com'
   - '+.hub5btmain.sandai.net'
   - '+.hub5emu.sandai.net'
   - '+.logic.cpm.cm.kankan.com'
   - '+.upgrade.xl9.xunlei.com'
-  # Yahoo'
+
+  # Yahoo
   - '+.ad.wretch.cc'
   - '+.ads.yahoo.com'
   - '+.adserver.yahoo.com'
@@ -756,32 +794,40 @@ payload:
   - '+.ws.progrss.yahoo.com'
   - '+.yads.yahoo.co.jp'
   - '+.ybp.yahoo.com'
-  # Zhihu'
+
+  # Zhihu
+
   # Ads in Video apps 下面都是 ********************
-  # 6间房'
+
+  # 6间房
   - '+.shrek.6.cn'
   - '+.simba.6.cn'
   - '+.union.6.cn'
-  # Baofeng 暴风影音'
+
+  # Baofeng 暴风影音
   - '+.logger.baofeng.com'
   - '+.xs.houyi.baofeng.net'
-  # Douyu'
+
+  # Douyu
   - '+.dotcounter.douyutv.com'
-  # Fenghuang 凤凰TV'
+
+  # Fenghuang 凤凰TV
   - '+.api.newad.ifeng.com'
   - '+.exp.3g.ifeng.com'
   - '+.game.ifeng.com'
   - '+.iis3g.deliver.ifeng.com'
   - '+.mfp.deliver.ifeng.com'
   - '+.stadig.ifeng.com'
-  # Funshion 风行'
+
+  # Funshion 风行
   - '+.adm.funshion.com'
   - '+.jobsfe.funshion.com'
   - '+.po.funshion.com'
   - '+.pub.funshion.com'
   - '+.pv.funshion.com'
   - '+.stat.funshion.com'
-  # iqiyi PPS 爱奇艺'
+
+  # iqiyi PPS 爱奇艺
   - '+.ad.m.iqiyi.com'
   - '+.afp.iqiyi.com'
   - '+.c.uaa.iqiyi.com'
@@ -800,17 +846,14 @@ payload:
   - '+.paopaod.qiyipic.com'
   - '+.policy.video.iqiyi.com'
   - '+.yuedu.iqiyi.com'
-  - IP-CIDR,101.227.200.0/24,no-resolve'
-  - IP-CIDR,101.227.200.11/32,no-resolve'
-  - IP-CIDR,101.227.200.28/32,no-resolve'
-  - IP-CIDR,101.227.97.240/32,no-resolve'
-  - IP-CIDR,124.192.153.42/32,no-resolve'
-  # Ku6 酷6'
+
+  # Ku6 酷6
   - '+.gug.ku6cdn.com'
   - '+.pq.stat.ku6.com'
   - '+.st.vq.ku6.cn'
   - '+.static.ku6.com'
-  # LeTV 乐视'
+
+  # LeTV 乐视
   - '+.1.letvlive.com'
   - '+.2.letvlive.com'
   - '+.ark.letv.com'
@@ -826,7 +869,8 @@ payload:
   - '+.pro.letv.com'
   - '+.stat.letv.com'
   - '+.static.app.m.letv.com'
-  # MGTV 芒果TV'
+
+  # MGTV 芒果TV
   - '+.click.hunantv.com'
   - '+.da.hunantv.com'
   - '+.da.mgtv.com'
@@ -834,7 +878,8 @@ payload:
   - '+.log.v2.hunantv.com'
   - '+.p2.hunantv.com'
   - '+.res.hunantv.com'
-  # Sohu 搜狐'
+
+  # Sohu 搜狐
   - '+.888.tv.sohu.com'
   - '+.adnet.sohu.com'
   - '+.ads.sohu.com'
@@ -867,7 +912,8 @@ payload:
   - '+.wan.sohu.com'
   - '+.wl.hd.sohu.com'
   - '+.yule.sohu.com'
-  # PPTV、PPLive'
+
+  # PPTV、PPLive
   - '+.afp.pplive.com'
   - '+.app.aplus.pptv.com'
   - '+.as.aplus.pptv.com'
@@ -876,7 +922,8 @@ payload:
   - '+.jp.as.pptv.com'
   - '+.pp2.pptv.com'
   - '+.stat.pptv.com'
-  # QQ Live'
+
+  # QQ Live
   - '+.btrace.video.qq.com'
   - '+.c.l.qq.com'
   - '+.dp3.qq.com'
@@ -890,7 +937,8 @@ payload:
   - '+.rcgi.video.qq.com'
   - '+.t.l.qq.com'
   - '+.u.l.qq.com'
-  # Youku & Tudou'
+
+  # Youku & Tudou
   - '+.a-dxk.play.api.3g.youku.com'
   - '+.actives.youku.com'
   - '+.ad.api.3g.tudou.com'
@@ -940,21 +988,8 @@ payload:
   - '+.ykatr.youku.com'
   - '+.ykrec.youku.com'
   - '+.ykrectab.youku.com'
-  - IP-CIDR,117.177.248.17/32,no-resolve'
-  - IP-CIDR,117.177.248.41/32,no-resolve'
-  - IP-CIDR,223.87.176.139/32,no-resolve'
-  - IP-CIDR,223.87.176.176/32,no-resolve'
-  - IP-CIDR,223.87.177.180/32,no-resolve'
-  - IP-CIDR,223.87.177.182/32,no-resolve'
-  - IP-CIDR,223.87.177.184/32,no-resolve'
-  - IP-CIDR,223.87.177.43/32,no-resolve'
-  - IP-CIDR,223.87.177.47/32,no-resolve'
-  - IP-CIDR,223.87.177.80/32,no-resolve'
-  - IP-CIDR,223.87.182.101/32,no-resolve'
-  - IP-CIDR,223.87.182.102/32,no-resolve'
-  - IP-CIDR,223.87.182.11/32,no-resolve'
-  - IP-CIDR,223.87.182.52/32,no-resolve'
-  # Youtube'
+
+  # Youtube
   - '+.azabu-u.ac.jp'
   - '+.couchcoaster.jp'
   - '+.delivery.dmkt-sp.jp'
@@ -964,7 +999,8 @@ payload:
   - '+.ssl-youtube.2cnt.net'
   - '+.youtube.112.2o7.net'
   - '+.youtube.2cnt.net'
-  # Others ads in Video apps'
+
+  # Others ads in Video apps
   - '+.acsystem.wasu.tv'
   - '+.ads.cdn.tvb.com'
   - '+.ads.wasu.tv'
@@ -980,8 +1016,10 @@ payload:
   - '+.static.duoshuo.com'
   - '+.t.cr-nielsen.com'
   - '+.terren.cntv.cn'
+
   # Ads in Video apps end 上面都是 ********************
-  # 常用网站广告'
+
+  # 常用网站广告
   - '+.1.win7china.com'
   - '+.168.it168.com'
   - '+.2.win7china.com'
