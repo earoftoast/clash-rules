@@ -5,7 +5,6 @@ payload:
   # 来源：https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Providers/BanEasyList.yaml
   # 更新：2023-08-03
   # 数量：26657条
-  
   - '+.0-000.store'
   - '+.0008d6ba2e.com'
   - '+.004809f9da.com'
