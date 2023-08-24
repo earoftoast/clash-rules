@@ -1,6 +1,6 @@
 # 简介
 
-本项目生成适用于 [**Clash Premium 内核**](https://github.com/Dreamacro/clash/releases/tag/premium) 和 [**Clash.Meta 内核**](https://github.com/MetaCubeX/Clash.Meta)的规则集（RULE-SET）。
+本项目是适用于 [**Clash Premium 内核**](https://github.com/Dreamacro/clash/releases/tag/premium) 和 [**Clash.Meta 内核**](https://github.com/MetaCubeX/Clash.Meta)的去广告规则集（RULE-SET）。
 
 ## 说明
 
