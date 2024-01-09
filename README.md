@@ -1,22 +1,22 @@
 # 简介
 
-本项目是适用于 [**Clash.Meta 内核**](https://github.com/MetaCubeX/Clash.Meta) 的去广告规则集 （RULE-SET）。
+本项目是适用于 [**Clash.Meta 内核**](https://github.com/MetaCubeX/Clash.Meta) 的去广告规则集 (RULE-SET)。
 
 ## 说明
 
-本项目规则集（RULE-SET）的数据主要来源于项目 [@ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)，适用于 [**Clash.Meta 内核**](https://github.com/MetaCubeX/Clash.Meta)。
+本项目规则集 (RULE-SET) 的数据主要来源于项目 [@ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)，适用于 [**Clash.Meta 内核**](https://github.com/MetaCubeX/Clash.Meta)。
 
 ### Clash.Meta 各版本下载地址
 
-- Clash.Meta **命令行**版 （适用于 Windows、macOS、Linux、OpenWRT 等多种平台）： [mihomo](https://github.com/MetaCubeX/mihomo/releases)
-- Clash.Meta **图形用户界面**版：
-  - [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta/releases)（适用于 macOS）
-  - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases)（适用于 Windows、macOS、Linux）
-  - [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)（适用于 Android）
+- Clash.Meta **命令行**版 (适用于 Windows、macOS、Linux、OpenWRT 等多种平台): [mihomo](https://github.com/MetaCubeX/mihomo/releases)
+- Clash.Meta **图形用户界面**版
+  - [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta/releases) (适用于 macOS)
+  - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases) (适用于 Windows、macOS、Linux)
+  - [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) (适用于 Android)
 
 ## 规则文件地址及使用方式
 
-### 在线地址（URL）
+### 在线地址 (URL)
 
 - **AD**：
   - [https://raw.githubusercontent.com/earoftoast/clash-rules/main/AD.yaml](https://raw.githubusercontent.com/earoftoast/clash-rules/main/AD.yaml)
@@ -85,7 +85,6 @@ rules:
   - RULE-SET,EasyList,REJECT
   - RULE-SET,EasyListChina,REJECT
   - RULE-SET,EasyPrivacy,REJECT
-  - RULE-SET,IP,REJECT
   - RULE-SET,ProgramAD,REJECT
 ```
 
