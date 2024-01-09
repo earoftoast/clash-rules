@@ -1,5 +1,5 @@
 payload:
-  # 来源: https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Providers/BanAD.yaml
+  # 来源: https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Providers/BanAD.yaml'
   
   # 广告联盟-国内
   - '+.09mk.cn'
@@ -396,6 +396,7 @@ payload:
   - '+.zhjfad.com'
   - '+.zqzxz.com'
   - '+.zzsx8.com'
+  - '+.wwads.cn'
 
   # 广告联盟-国外
   - '+.acuityplatform.com'
