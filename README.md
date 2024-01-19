@@ -8,10 +8,10 @@
 
 ### Clash.Meta 各版本下载地址
 
-- Clash.Meta **命令行**版 (适用于 Windows、macOS、Linux、OpenWRT 等多种平台): [mihomo](https://github.com/MetaCubeX/mihomo/releases)
-- Clash.Meta **图形用户界面**版
-  - [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta/releases) (适用于 macOS)
+- Clash.Meta 命令行版 (适用于 Windows、macOS、Linux、OpenWRT 等多种平台): [mihomo](https://github.com/MetaCubeX/mihomo/releases)
+- Clash.Meta 图形用户界面版
   - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases) (适用于 Windows、macOS、Linux)
+  - [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta/releases) (适用于 macOS)
   - [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) (适用于 Android)
 
 ## 规则文件地址及使用方式
