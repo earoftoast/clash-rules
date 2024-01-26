@@ -2,7 +2,7 @@ payload:
   # 来源：https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Providers/BanProgramAD.yaml
   # 包含常用应用的各种去广告规则
 
-   # 163
+  # 163
   - '+.a.youdao.com'
   - '+.adgeo.corp.163.com'
   - '+.analytics.126.net'
