@@ -1,18 +1,18 @@
 # 简介
 
-本项目是适用于 [**Clash.Meta 内核**](https://github.com/MetaCubeX/Clash.Meta) 的去广告规则集 (RULE-SET)。
+本项目是适用于 [**mihomo**](https://github.com/MetaCubeX/mihomo) 的去广告规则集 (RULE-SET)。
 
 ## 说明
 
-本项目规则集 (RULE-SET) 的数据主要来源于项目 [@ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)，适用于 [**Clash.Meta 内核**](https://github.com/MetaCubeX/Clash.Meta)。
+本项目规则集 (RULE-SET) 的数据主要来源于项目 [@ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)，适用于 [**mihomo**](https://github.com/MetaCubeX/mihomo)。
 
-### Clash.Meta 各版本下载地址
+### mihomo 各版本下载地址
 
-- Clash.Meta 命令行版 (适用于 Windows、macOS、Linux、OpenWRT 等多种平台): [mihomo](https://github.com/MetaCubeX/mihomo/releases)
-- Clash.Meta 图形用户界面版
+- mihomo 命令行版 (适用于 Windows、macOS、Linux 等多种平台): [mihomo](https://github.com/MetaCubeX/mihomo/releases)
+- mihomo [图形用户界面版](https://wiki.metacubex.one/startup/client/client/)
   - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases) (适用于 Windows、macOS、Linux)
+  - [FlClash](https://github.com/chen08209/FlClash/releases) (适用于Windows、macOS、Linux、Android)
   - [clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases) (适用于 Windows、macOS、Linux)
-  - [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta/releases) (适用于 macOS)
   - [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) (适用于 Android)
 
 ## 规则文件地址及使用方式
