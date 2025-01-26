@@ -11,7 +11,7 @@
 - mihomo 命令行版 (适用于 Windows、macOS、Linux 等多种平台): [mihomo](https://github.com/MetaCubeX/mihomo/releases)
 - mihomo [图形用户界面版](https://wiki.metacubex.one/startup/client/client/)
   - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev/releases) (适用于 Windows、macOS、Linux)
-  - [FlClash](https://github.com/chen08209/FlClash/releases) (适用于Windows、macOS、Linux、Android)
+  - [FlClash](https://github.com/chen08209/FlClash/releases) (适用于 Windows、macOS、Linux、Android)
   - [clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu/releases) (适用于 Windows、macOS、Linux)
   - [ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid/releases) (适用于 Android)
 
