@@ -569,7 +569,6 @@ payload:
   - '+.shenghuo.xiaomi.com'
   - '+.stat.pandora.xiaomi.com'
   - '+.union.mi.com'
-  - '+.wtradv.market.xiaomi.com'
 
   # Moji
   - '+.ad.api.moji.com'
